@@ -1,0 +1,6 @@
+{
+  "name": "hungarian-language",
+  "version": "1.0.2",
+  "main": "magyar.js",
+  "type": "commonjs"
+}
